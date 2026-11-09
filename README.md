@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instamart Customer Intelligence & Support Copilot
 
 An end-to-end data analytics, machine-learning, customer intelligence, and AI-assisted customer-support project built using Python, pandas, NumPy, SQLite, and scikit-learn.
@@ -712,3 +713,7 @@ The repository contains the project source code, datasets, policy documents, ana
 **Author:** Saranya M
 
 **Project:** Instamart Customer Intelligence & Support Copilot
+=======
+# Instamart_Customer-copilot
+An AI-powered Instamart copilot for customer segmentation, lapse prediction, retention insights, and support automation using Python, SQL and ML.
+>>>>>>> 07a7c323bb1ac2cc8dbcc2211d69d6c4c8831b30
