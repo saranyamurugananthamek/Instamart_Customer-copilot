@@ -709,6 +709,6 @@ The repository contains the project source code, datasets, policy documents, ana
 
 ---
 
-**Author:** Pooja S. S
+**Author:** Saranya M
 
 **Project:** Instamart Customer Intelligence & Support Copilot
